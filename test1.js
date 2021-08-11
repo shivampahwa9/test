@@ -7,6 +7,8 @@ const logger = require( './logging' );
 // var parse = require('parse');
 
 
+console.log("check")
+
 let httpoptions = {
     hostname: "172.31.14.172",
     port: "5036",
