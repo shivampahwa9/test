@@ -1,0 +1,28 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:x="urn:schemas-microsoft-com:office:excel" xmlns="http://www.w3.org/TR/REC-html40"><head><!--[if gte mso 9]><xml><x:ExcelWorkbook><x:ExcelWorksheets><x:ExcelWorksheet><x:Name>WireWorkbenchDataExport</x:Name><x:WorksheetOptions><x:DisplayGridlines/></x:WorksheetOptions></x:ExcelWorksheet></x:ExcelWorksheets></x:ExcelWorkbook></xml><![endif]--></head><body><table>
+      <table border="1">
+        <thead>
+          <tr class="table-header">
+            <th>Team</th>
+            <th>Process Type</th>
+            <th>Cedent</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>value 1</td>
+            <td>value 2</td>
+            <td>value 3</td>
+          </tr>
+          <tr>
+            <td>value 4</td>
+            <td>value 5</td>
+            <td>value 6</td>
+          </tr>
+          <tr>
+            <td>10.12.2015</td>
+            <td>AXA Affin</td>
+            <td>101024 - Quota Share QS</td>
+          </tr>
+        </tbody>
+      </table>
+    </table></body></html>
